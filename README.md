@@ -5,3 +5,4 @@
 - [Arroz Carreteiro](receitas/arroz_carreteiro.md)
 - [Bolo de Fubá](receitas/bolo_de_fuba.md)
 - [Farofa Tostada](receitas/farofa_tostada.md)
+- [Vaca Atolada](receitas/vaca_atolada.md)
