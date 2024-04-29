@@ -14,6 +14,8 @@
 
 ## Modo de preparo:
 
+CONFLICT - ARRANJA ISTO POR FAVOR
+
 - Com auxílio de uma peneira, coloque 2 xícaras de chá de fubá, 1 xícara de chá de farinha de trigo e 1 colher de sopa de fermento em pó em um recipiente. Misture e reserve.
 
 - No liquidificador, coloque 3 ovos, 1 xícara de chá de leite, 1 xícara de chá de óleo e 2 xícaras de chá de açúcar. Bata até ficar homogêneo.
