@@ -10,7 +10,7 @@
 - 3 ovos
 - 1 xícara de chá de leite
 - 1 xícara de chá de óleo
-- 2 xícaras de chá de açúcar
+- 1 xícara de chá de açúcar
 
 ## Modo de preparo:
 
